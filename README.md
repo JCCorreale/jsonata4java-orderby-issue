@@ -1,4 +1,4 @@
-> ✅ The issue has been fixed in version `2.5.6 of [JSONata4Java](https://github.com/IBM/JSONata4Java)
+> ✅ The issue has been fixed in version `2.5.6` of [JSONata4Java](https://github.com/IBM/JSONata4Java)
 
 ## How to reproduce
 
