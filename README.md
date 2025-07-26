@@ -7,7 +7,7 @@ Open [src/test/java/TestOrderBy.java](src/test/java/TestOrderBy.java)
 Execute tests in `TestOrderBy` class:
 
 * The `testOrderByShouldSortAscending` test will succeed
-* The `testOrderByShouldSortDescending` test will fail
+* The `testOrderByShouldSortDescending` test will fail (refer to commit [858e619](https://github.com/JCCorreale/jsonata4java-orderby-issue/commit/858e619ab58d7bf33681b8317f2eeba890f4d708))
 
 Expressions used for sorting:
 
