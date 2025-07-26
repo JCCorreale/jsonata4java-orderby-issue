@@ -1,3 +1,5 @@
+> ✅ The issue has been fixed in version `2.5.6 of [JSONata4Java](https://github.com/IBM/JSONata4Java)
+
 ## How to reproduce
 
 Open [src/test/java/TestOrderBy.java](src/test/java/TestOrderBy.java)
